@@ -1,0 +1,19 @@
+header {
+    background-color: blue;
+}
+
+aside {
+    background-color: red;
+}
+
+main {
+    background-color:yellow;
+}
+
+aside {
+    background-color:green;
+}
+
+footer {
+    background-color:black;
+}
